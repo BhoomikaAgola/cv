@@ -6,6 +6,10 @@
   scrollbar-color: $primary $secondary;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .section-spacing {
   padding-top: 70px;
   padding-bottom: 70px;

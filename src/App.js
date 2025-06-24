@@ -1,10 +1,14 @@
 import React, { useEffect, useState } from "react";
-import { useRoutes } from "react-router-dom";
-import getRoutes from "./routes";
 import "./App.scss";
 import "aos/dist/aos.css";
 import AOS from "aos";
 import ThemeContext from "./theme/ThemeContext";
+import Header from "./Components/Header/Header";
+import Hero from "./Components/Hero/Hero";
+import Experience from "./Components/Experience/Experience";
+import RecentWork from "./Components/RecentWork/RecentWork";
+import Skills from "./Components/Skills/Skills";
+import Footer from "./Components/Footer/Footer";
 
 const App = () => {
   const [theme, setTheme] = useState(() => {
@@ -22,7 +26,6 @@ const App = () => {
     document.body.classList.remove("light", "dark");
     document.body.classList.add(theme);
 
-    // Save theme to localStorage
     localStorage.setItem("app-theme", theme);
   }, [theme]);
 
@@ -30,11 +33,17 @@ const App = () => {
     setTheme((prev) => (prev === "light" ? "dark" : "light"));
   };
 
-  const routing = useRoutes(getRoutes());
   return (
     <>
       <ThemeContext.Provider value={{ theme, toggleTheme }}>
-        {routing}
+        <Header />
+        <div className="container-fluid p-0">
+          <Hero />
+          <Experience />
+          <RecentWork />
+          <Skills />
+          <Footer />
+        </div>
       </ThemeContext.Provider>
     </>
   );
