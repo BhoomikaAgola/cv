@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.0ef52d1c.css",
-    "main.js": "/cv/static/js/main.36c4d2f9.js",
+    "main.js": "/cv/static/js/main.fd466665.js",
     "static/js/453.c20a5263.chunk.js": "/cv/static/js/453.c20a5263.chunk.js",
     "static/media/Dragonfly-Designs.png": "/cv/static/media/Dragonfly-Designs.1e6fdb8da683c7496fe2.png",
     "static/media/PODTECH.png": "/cv/static/media/PODTECH.2bf38382badf7864ad1b.png",
@@ -30,11 +30,11 @@
     "static/media/Macrotech-Kiosk.webp": "/cv/static/media/Macrotech-Kiosk.8198ff26cc8b09083602.webp",
     "index.html": "/cv/index.html",
     "main.0ef52d1c.css.map": "/cv/static/css/main.0ef52d1c.css.map",
-    "main.36c4d2f9.js.map": "/cv/static/js/main.36c4d2f9.js.map",
+    "main.fd466665.js.map": "/cv/static/js/main.fd466665.js.map",
     "453.c20a5263.chunk.js.map": "/cv/static/js/453.c20a5263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef52d1c.css",
-    "static/js/main.36c4d2f9.js"
+    "static/js/main.fd466665.js"
   ]
 }
