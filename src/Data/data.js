@@ -30,7 +30,7 @@ export const experienceData = [
   {
     id: 2,
     position: "Web Designer",
-    experienceTimeline: "2020",
+    experienceTimeline: "2021-2023",
     companyName: "Sparkle Infotech, Surat",
   },
   {

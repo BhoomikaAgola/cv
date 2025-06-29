@@ -47,30 +47,36 @@ const RecentWork = () => {
                   className="img-fluid object-fit-contain rounded-1"
                 />
                 <div className="position-absolute recent-work-data py-2 px-4 ">
-                  <a
-                    href={item.siteUrl}
-                    target="_blank"
-                    className="text-decoration-none "
-                  >
+                  <div>
                     <div className="d-flex align-items-center">
                       <div className="flex-100">
                         <div className="fs-6">
-                          <span className="me-1">{item.siteName}</span> {GoTo}
+                          <a
+                            href={item.siteUrl}
+                            target="_blank"
+                            className="text-decoration-none "
+                          >
+                            <span className="me-1">{item.siteName}</span> {GoTo}
+                          </a>
                         </div>
-                        <div className="fs-6">{item.technology}</div>
+                        <div className="fs-6">
+                          <span>{item.technology}</span>
+                          {item.externalLink && (
+                            <a
+                              href={item.externalLink}
+                              target="_blank"
+                              className="text-decoration-none"
+                            >
+                              {" "}
+                              |{" "}
+                              <span className="me-1">Webapp Video {GoTo} </span>
+                            </a>
+                          )}
+                        </div>
                       </div>
                       <div className="ms-auto">{item.techIcon}</div>
                     </div>
-                  </a>
-                  {item.externalLink && (
-                    <a
-                      href={item.externalLink}
-                      target="_blank"
-                      className="d-block"
-                    >
-                      <span className="me-1">Demo Link</span> {GoTo}
-                    </a>
-                  )}
+                  </div>
                 </div>
               </div>
             </div>
@@ -95,17 +101,19 @@ const RecentWork = () => {
         fullscreen
         className="image-gallery-modal"
       >
-        <Modal.Body className="p-0 position-relative text-center bg-tranparent">
+        <Modal.Body className="p-0 position-relative text-center bg-tranparent d-flex align-items-center overflow-visible">
           <button
             onClick={handleClose}
             className="btn btn-close bg-danger p-2 position-fixed top-0 end-0 m-3"
           ></button>
 
-          <img
-            src={images[currentIndex]}
-            alt={`Project ${currentIndex}`}
-            className="w-100"
-          />
+          <div className="d-flex align-items-center justify-content-center w-100">
+            <img
+              src={images[currentIndex]}
+              alt={`Project ${currentIndex}`}
+              className="w-100"
+            />
+          </div>
 
           {/* Prev Button */}
           <button
