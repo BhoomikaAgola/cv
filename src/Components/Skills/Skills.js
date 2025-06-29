@@ -1,19 +1,5 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import {
-  AntDesign,
-  BootstrapIcon,
-  CssIcon,
-  FigmaIcon,
-  HtmlIcon,
-  JqueryIcon,
-  JsIcon,
-  NextjsIcon,
-  ReactIcon,
-  SassIcon,
-  TailwindIcon,
-  WordpressIcon,
-} from "../../icons/icon";
 import { Skillset1, Skillset2 } from "../../Data/data";
 
 const Skills = () => {

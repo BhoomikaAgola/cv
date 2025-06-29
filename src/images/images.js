@@ -1,5 +1,5 @@
 export const Bhumika = require("./bhumika.png");
-export const CvPDF = require("./Bhumika-CV-2024.pdf");
+export const CvPDF = require("./BhoomikaAgola-CV.pdf");
 // export const Projectimage = require("./React-App.png");
 export const Projectimage1 = require("./protfolio/Cognopia.png");
 export const Projectimage2 = require("./protfolio/DesignPax.webp");

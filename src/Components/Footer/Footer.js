@@ -39,6 +39,7 @@ const Footer = () => {
                   href="https://www.linkedin.com/in/bhoomikaagola/"
                   className="text-decoration-none "
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {LinkedinIcon}
                 </a>
@@ -48,6 +49,7 @@ const Footer = () => {
                   href="mailto: bhoomikaagola@gmail.com"
                   className="text-decoration-none "
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {MailIcon}
                 </a>

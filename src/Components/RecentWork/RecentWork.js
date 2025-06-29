@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Container, Modal } from "react-bootstrap";
-import { GoTo, ReactIcon } from "../../icons/icon";
+import { GoTo } from "../../icons/icon";
 import { ProjectsData } from "../../Data/data";
 
 const RecentWork = () => {
@@ -59,7 +59,7 @@ const RecentWork = () => {
                             <span className="me-1">{item.siteName}</span> {GoTo}
                           </a>
                         </div>
-                        <div className="fs-6">
+                        <div className="fs-6 text-light opacity-75">
                           <span>{item.technology}</span>
                           {item.externalLink && (
                             <a
