@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.0198f10c.css",
-    "main.js": "/cv/static/js/main.e8d134f8.js",
+    "main.js": "/cv/static/js/main.4acf3203.js",
     "static/js/453.c20a5263.chunk.js": "/cv/static/js/453.c20a5263.chunk.js",
     "static/media/Dragonfly-Designs.png": "/cv/static/media/Dragonfly-Designs.1e6fdb8da683c7496fe2.png",
     "static/media/PODTECH.png": "/cv/static/media/PODTECH.2bf38382badf7864ad1b.png",
@@ -23,18 +23,18 @@
     "static/media/C6-EPD-Home.webp": "/cv/static/media/C6-EPD-Home.e0d7e2babed2a42fb7a2.webp",
     "static/media/Pure-Real-Estate.webp": "/cv/static/media/Pure-Real-Estate.baf6df8014e6de751dda.webp",
     "static/media/Home-FieldX.webp": "/cv/static/media/Home-FieldX.a762511728ded5810837.webp",
-    "static/media/Bhumika-CV-2024.pdf": "/cv/static/media/Bhumika-CV-2024.83313f3be994a31896e1.pdf",
+    "static/media/BhoomikaAgola-CV.pdf": "/cv/static/media/BhoomikaAgola-CV.79cd28ab48fb0b54adf7.pdf",
     "static/media/PBX-Extension.webp": "/cv/static/media/PBX-Extension.2dcd1586f20b23039979.webp",
     "static/media/GuestXP-PMS.webp": "/cv/static/media/GuestXP-PMS.f43ed161d428713a3f4a.webp",
     "static/media/GuestXP-Kiosk-Console.webp": "/cv/static/media/GuestXP-Kiosk-Console.b4dd50db450607b63725.webp",
     "static/media/Macrotech-Kiosk.webp": "/cv/static/media/Macrotech-Kiosk.8198ff26cc8b09083602.webp",
     "index.html": "/cv/index.html",
     "main.0198f10c.css.map": "/cv/static/css/main.0198f10c.css.map",
-    "main.e8d134f8.js.map": "/cv/static/js/main.e8d134f8.js.map",
+    "main.4acf3203.js.map": "/cv/static/js/main.4acf3203.js.map",
     "453.c20a5263.chunk.js.map": "/cv/static/js/453.c20a5263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0198f10c.css",
-    "static/js/main.e8d134f8.js"
+    "static/js/main.4acf3203.js"
   ]
 }
