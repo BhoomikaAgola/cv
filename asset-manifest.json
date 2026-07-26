@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.10bca49f.css",
+    "main.js": "/cv/static/js/main.f8be37bd.js",
+    "static/js/453.ec147cec.chunk.js": "/cv/static/js/453.ec147cec.chunk.js",
+    "static/media/Dragonfly-Designs.png": "/cv/static/media/Dragonfly-Designs.1e6fdb8da683c7496fe2.png",
+    "static/media/PODTECH.png": "/cv/static/media/PODTECH.2bf38382badf7864ad1b.png",
+    "static/media/SimpleTherapy.png": "/cv/static/media/SimpleTherapy.5cdfb885f15ca33844f8.png",
+    "static/media/Home-Clima.png": "/cv/static/media/Home-Clima.bec9a9c248dcc585cbd8.png",
+    "static/media/Pabau.png": "/cv/static/media/Pabau.e1835afa0339326c7cee.png",
+    "static/media/Eugene-Oregon.png": "/cv/static/media/Eugene-Oregon.065f66d8bc597a3d5c0a.png",
+    "static/media/Economic-Analysis.png": "/cv/static/media/Economic-Analysis.67cbe6861c6f9cb9576a.png",
+    "static/media/Optimus-India.png": "/cv/static/media/Optimus-India.16c0430c4702232f0908.png",
+    "static/media/Ian-Altman.png": "/cv/static/media/Ian-Altman.633530873cb7d00959b3.png",
+    "static/media/Bhoomika_Agola_Frontend_Developer.pdf": "/cv/static/media/Bhoomika_Agola_Frontend_Developer.91d952e4304230d4c97f.pdf",
+    "static/media/Cognopia.png": "/cv/static/media/Cognopia.8dc84ac5169b0d65b082.png",
+    "static/media/Rise-TV.webp": "/cv/static/media/Rise-TV.a4b90e0936fd8e61ca45.webp",
+    "static/media/Queryloom.png": "/cv/static/media/Queryloom.50242933a8abfb183e02.png",
+    "static/media/AACAE.webp": "/cv/static/media/AACAE.809f433e7cb434ac25be.webp",
+    "static/media/privateLINE.webp": "/cv/static/media/privateLINE.2d37f62c2151addc885f.webp",
+    "static/media/DesignPax.webp": "/cv/static/media/DesignPax.6c28235d61f044aaed39.webp",
+    "static/media/LoveDevani-com.webp": "/cv/static/media/LoveDevani-com.75699adf8f06aba7f374.webp",
+    "static/media/bhumika.png": "/cv/static/media/bhumika.09e1c84dd512b976fbc1.png",
+    "static/media/C6-EPD-Home.webp": "/cv/static/media/C6-EPD-Home.e0d7e2babed2a42fb7a2.webp",
+    "static/media/Pure-Real-Estate.webp": "/cv/static/media/Pure-Real-Estate.baf6df8014e6de751dda.webp",
+    "static/media/Home-FieldX.webp": "/cv/static/media/Home-FieldX.a762511728ded5810837.webp",
+    "static/media/PMS.webp": "/cv/static/media/PMS.d84757ce5e202fecb0d3.webp",
+    "static/media/Macrotech-Kiosk.webp": "/cv/static/media/Macrotech-Kiosk.8198ff26cc8b09083602.webp",
+    "static/media/PBX.webp": "/cv/static/media/PBX.c7474cbc74f264a8db93.webp",
+    "static/media/Console.webp": "/cv/static/media/Console.761e3272c455a4fc67ca.webp",
+    "index.html": "/cv/index.html",
+    "main.10bca49f.css.map": "/cv/static/css/main.10bca49f.css.map",
+    "main.f8be37bd.js.map": "/cv/static/js/main.f8be37bd.js.map",
+    "453.ec147cec.chunk.js.map": "/cv/static/js/453.ec147cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bca49f.css",
+    "static/js/main.f8be37bd.js"
+  ]
+}
